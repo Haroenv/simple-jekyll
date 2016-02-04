@@ -4,15 +4,17 @@ A base template for jekyll
 
 # Usage
 
-1. clone this repository in the directory you want to make your thing like this
+1. Get the files in this repository
+
+    > note: look at the contents of any script you run on beforehand
 
     ```sh
-    git clone https://github.com/Haroenv/simple-jekyll.git
+    bash <(curl -fsSL https://raw.githubusercontent.com/Haroenv/simple-jekyll/master/install.sh)
     ```
 
 2. Fill in the `_config.yml`
 
-3. Go ahead and do the rest (including deleting this stupid readme)
+3. Go ahead and do the rest
 
 # License
 
