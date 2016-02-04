@@ -16,6 +16,15 @@ A base template for jekyll
 
 3. Go ahead and do the rest
 
+# Features
+
+* vanilla javascript
+* scss
+* jekyll
+* git
+* fancy meta-tags
+* flexible configuration
+
 # License
 
 WTFPL
