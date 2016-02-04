@@ -16,6 +16,19 @@ A base template for jekyll
 
 3. Go ahead and do the rest
 
+# Tip
+
+Add an alias of this script to your `~/.bash_profile` like this
+
+```sh
+# simple jekyll template alias     #
+# github.com/Haroenv/simple-jekyll #
+####################################
+alias template='curl -s https://raw.githubusercontent.com/Haroenv/simple-jekyll/master/install.sh | bash /dev/stdin'
+```
+
+or any alias you want.
+
 # Features
 
 * vanilla javascript
