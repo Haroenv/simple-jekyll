@@ -9,7 +9,7 @@ A base template for jekyll
     > note: look at the contents of any script you run on beforehand
 
     ```sh
-    bash <(curl -fsSL https://raw.githubusercontent.com/Haroenv/simple-jekyll/master/install.sh)
+    curl -s https://raw.githubusercontent.com/Haroenv/simple-jekyll/master/install.sh | bash /dev/stdin
     ```
 
 2. Fill in the `_config.yml`

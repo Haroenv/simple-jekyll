@@ -8,3 +8,4 @@ rm -rf .git files README.md install.sh
 echo 'initialising git'
 git init
 git add .
+git commit -m 'initial commit'
