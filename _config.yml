@@ -1,0 +1,18 @@
+# the language
+lang:
+# author info
+author:
+  name:
+  email:
+  twitter:
+# title and description
+title:
+description:
+# the url this will be published at
+url:
+# the theme colour
+color:
+# location of some files
+css:
+script:
+favicon:
