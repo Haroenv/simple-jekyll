@@ -17,10 +17,6 @@ color:
 css:
 scripts:
 favicon:
-# alternative to JEKYLL_ENV
-development: true
-# google analytics
-analytics:
 #configuration
 sass:
   style: compressed
